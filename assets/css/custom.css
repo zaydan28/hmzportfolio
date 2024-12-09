@@ -1,0 +1,18 @@
+.myPortfolio {
+    text-align: center;
+    color: white;
+}
+.myProfileImg {
+    height: 300px;
+    border-radius: 15px;
+}
+.divProfileImg {
+text-align: center;
+}
+.viewAllButton {
+    text-align: center;
+}
+.portfolio-area-page {
+    padding-top: 20px;
+    padding-bottom: 90px;
+}
